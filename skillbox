@@ -1,3 +1,0 @@
-print('computer')
-import math
-math.exp(5)
