@@ -4,4 +4,4 @@ for i in range(1, 33):
 for a in range(1, 33):
     a *= 2 + i
     print(a)
-print('end:', i + a)
+print('Answer:', i + a)
